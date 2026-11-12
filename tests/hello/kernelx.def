@@ -1,0 +1,6 @@
+LIBRARY kernelx.dll
+EXPORTS
+GetConsoleType
+GetSystemOSVersion
+XMemAlloc
+XMemFree

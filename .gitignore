@@ -1,0 +1,17 @@
+# Build outputs
+*.o
+*.d
+*.a
+*.exe
+*.dll
+xbemu
+tests/input/sendevents
+tests/input/sendraw
+tests/d3d11/shaders.h
+.deps/
+
+# Local debug logs and captures
+*.log
+*.xwd
+*.out
+__pycache__/
